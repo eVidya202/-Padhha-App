@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Padhha App</string>
+    <string name="mobile_or_email">Enter your mobile no or email id</string>
+    <string name="button_main_next">Next ></string>
+    <string name="otp_suggestion_message">We will send ONE TIME PASSWORD to this mobile or email id for verification</string>
+    <string name="otp_sent_message">OTP sent to the mobile or email id</string>
+    <string name="resend_otp_message">Resend OTP in</string>
+</resources>
